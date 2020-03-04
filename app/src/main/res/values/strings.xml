@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyFirstApp</string>
-</resources>
+    <string name="app_name">CDIT Class App</string>
+    <string name="welcome">Hello and welcome to our new add developed for practice purposes. Click Sign up go get registerd</string>
+    </resources>
